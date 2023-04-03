@@ -1,3 +1,5 @@
 # GTI
 
-![GTI Token](https://user-images.githubusercontent.com/81981737/182871538-5ab93336-c1b6-4b48-b674-22b95da0299a.jpg)
+
+
+![gti](https://user-images.githubusercontent.com/121312707/229460890-cd10e9c4-8f3c-40d2-945b-d57fc33d139b.png)
